@@ -4,4 +4,5 @@ To define the docking side of a child element, use its dock property. To dock a 
 **API Reference for** [DockLayout Class](http://docs.nativescript.org/api-reference/modules/_ui_layouts_dock_layout_.html)
 
 A basic usage and definition of DockLayout, its elements and setting its stretchLastChild property and in HTML.
+
 <snippet id='dock-layout-html'/>

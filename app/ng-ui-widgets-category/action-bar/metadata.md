@@ -4,4 +4,5 @@ description: ActionBar UI widget, which is a common abstraction over Android's A
 position: 16
 slug: action-bar-ng
 ---
+
 example-order: usage, styling, tips-and-tricks

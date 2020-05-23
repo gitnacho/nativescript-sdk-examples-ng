@@ -9,6 +9,7 @@
 | `titleView` | [View](https://docs.nativescript.org/api-reference/classes/_ui_core_view_.view) | Gets or sets the title view. When set - replaces the title with a custom view. |
 
 ### ActionItem Properties
+
 | Name     | Type     | Description    |
 |:---------|:---------|:---------------|
 | `text`   | `string` | Gets or sets the text of the action item. |
@@ -17,7 +18,6 @@
 | `android.position`   | `enum`: _"actionBar"_, _"popup"_, _"actionBarIfRoom"_ | Sets the position of the item (default value is `actionBar`). |
 | `ios.systemIcon`   | `number` | **iOS only** Sets the icon of the action item while using [UIBarButtonSystemIcon](https://developer.apple.com/documentation/uikit/uibarbuttonsystemitem) enumeration. |
 | `android.systemIcon`   | `string` | **Android only** Sets a path to a resource icon ( see the [list of Android system drawables](https://developer.android.com/reference/android/R.drawable)) |
-
 
 ### NavigationButton Properties
 
@@ -36,11 +36,11 @@
 
 ## API References
 
-| Name               | Type     | 
+| Name               | Type     |
 |:-------------------|:---------|
-| [ActionBar](https://docs.nativescript.org/api-reference/modules/_ui_action_bar_)                 | `Module` | 
-| [ActionBar](https://docs.nativescript.org/api-reference/classes/_ui_action_bar_.actionbar)       | `Class`  | 
-| [ActionItem](https://docs.nativescript.org/api-reference/classes/_ui_action_bar_.actionitem )    | `Class`  | 
+| [ActionBar](https://docs.nativescript.org/api-reference/modules/_ui_action_bar_)                 | `Module` |
+| [ActionBar](https://docs.nativescript.org/api-reference/classes/_ui_action_bar_.actionbar)       | `Class`  |
+| [ActionItem](https://docs.nativescript.org/api-reference/classes/_ui_action_bar_.actionitem )    | `Class`  |
 | [ActionItems](https://docs.nativescript.org/api-reference/classes/_ui_action_bar_.actionitems)   | `Class`  |
 | [NavigationButton](https://docs.nativescript.org/api-reference/classes/_ui_action_bar_.navigationbutton) | `Class`  |
 
@@ -48,8 +48,7 @@
 
 | Android                | iOS      |
 |:-----------------------|:---------|
-| [android.widget.Toolbar](https://developer.android.com/reference/android/widget/Toolbar.html) | [UIView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/) | 
-
+| [android.widget.Toolbar](https://developer.android.com/reference/android/widget/Toolbar.html) | [UIView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/) |
 
 ## See Also
 

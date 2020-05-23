@@ -4,4 +4,5 @@ description: SearchBar is a component, which represents `UISearchBar`  component
 position: 37
 slug: search-bar-ng
 ---
+
 example-order: usage, styling

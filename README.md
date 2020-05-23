@@ -12,15 +12,16 @@ All the samples have automated tests associated with them and you can be sure th
 
 Currently, the samples are written around the specific APIs, but we will be adding more “complete scenarios” implemented out of the box.
 
-*The code is currently Angular based.*
+*The code is currently Angular based*:
 
 We hope you will enjoy using this resource, if you have any feedback please [open an issue.](https://github.com/NativeScript/nativescript-sdk-examples-ng/issues)
 
-### Run the app from source code
-```
+## Run the app from source code
+
+``` Node
 git clone --depth 1 https://github.com/NativeScript/nativescript-sdk-examples-ng.git
 cd nativescript-sdk-examples-ng
 tns run android|ios
 ```
 
-![](https://ga-beacon.appspot.com/UA-111455-24/nativescript/nativescript-code-samples-ng?pixel)
+![code-samples-ng](https://ga-beacon.appspot.com/UA-111455-24/nativescript/nativescript-code-samples-ng?pixel)

@@ -3,4 +3,5 @@ The WrapLayout is similar to the StackLayout, but it does not just stack all chi
 **API Reference for** [WrapLayout Class](http://docs.nativescript.org/api-reference/modules/_ui_layouts_wrap_layout_.html)
 
 A basic usage and definition of WrapLayout, its orientation and elements in HTML
+
 <snippet id='wrap-layout-html'/>

@@ -1,7 +1,9 @@
 `ngSwitch` structural directive basic usage in NativeScript + Angular-2
 
 HTML
+
 <snippet id='using-ngswitch-html'/>
 
-Typescript
+TypeScript
+
 <snippet id='using-ngswitch-code'/>

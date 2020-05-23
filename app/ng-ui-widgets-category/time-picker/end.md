@@ -19,20 +19,15 @@
 | `minuteChange` | Emitted when the `minute` property is changed. |
 | `timeChange` | Emitted when the `hour`, `minute` or `time` property is changed. |
 
-
 ## API References
 
 | Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/time-picker](http://docs.nativescript.org/api-reference/modules/_ui_time_picker_.html)) | `Module` | 
+| [tns-core-modules/ui/time-picker](http://docs.nativescript.org/api-reference/modules/_ui_time_picker_.html)) | `Module` |
 | [TimePicker](https://docs.nativescript.org/api-reference/classes/_ui_time_picker_.timepicker) | `Class` |
-
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.widget.TimePicker](http://developer.android.com/reference/android/widget/TimePicker.html) | [UIDatePicker](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIDatePicker_Class/index.html) | 
-
-
-
+| [android.widget.TimePicker](http://developer.android.com/reference/android/widget/TimePicker.html) | [UIDatePicker](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIDatePicker_Class/index.html) |

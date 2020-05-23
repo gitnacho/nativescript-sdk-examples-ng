@@ -4,4 +4,5 @@ description: Animation module provides the needed functionality for animating UI
 position: 18
 slug: animations-ng
 ---
-example-order: title, action-items, navigation-button, icon-fonts 
+
+example-order: title, action-items, navigation-button, icon-fonts

@@ -14,10 +14,10 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/segmented-bar](http://docs.nativescript.org/api-reference/modules/_ui_segmented_bar_.html) | `Module` | 
-| [SegmentedBar](https://docs.nativescript.org/api-reference/classes/_ui_segmented_bar_.segmentedbar) | `Class` | 
+| [tns-core-modules/ui/segmented-bar](http://docs.nativescript.org/api-reference/modules/_ui_segmented_bar_.html) | `Module` |
+| [SegmentedBar](https://docs.nativescript.org/api-reference/classes/_ui_segmented_bar_.segmentedbar) | `Class` |
 | [SegmentedBarItem](https://docs.nativescript.org/api-reference/classes/_ui_segmented_bar_.segmentedbaritem) | `Class` |
 | [SelectedIndexChangedEventData](https://docs.nativescript.org/api-reference/interfaces/_ui_segmented_bar_.selectedindexchangedeventdata) | `Interface` |
 

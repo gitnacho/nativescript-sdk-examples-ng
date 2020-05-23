@@ -4,4 +4,5 @@ description: The Gesture class provides functionality, which allows interaction 
 position: 24
 slug: gestures-ng
 ---
+
 example-order: tap, double-tap, touch, swipe, long-press, pan, pinch, rotation

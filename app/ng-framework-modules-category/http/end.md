@@ -4,6 +4,6 @@ Refer to [the Angular's official documentation](https://angular.io/guide/http) f
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [HttpClient](https://angular.io/guide/http) | `Module` | 
+| [HttpClient](https://angular.io/guide/http) | `Module` |

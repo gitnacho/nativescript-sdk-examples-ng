@@ -4,4 +4,5 @@ description: Slider module provides abstraction over iOS's UISlider and Android'
 position: 39
 slug: slider-ng
 ---
+
 example-order: usage, styling

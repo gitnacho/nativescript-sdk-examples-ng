@@ -17,12 +17,11 @@
 | `loadStarted` | Emitted when the content is starting to load. |
 | `loadFinished` | Emitted when the content loading is over. |
 
-
 ## API References
 
 | Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/web-view](http://docs.nativescript.org/api-reference/modules/_ui_web_view_.html)) | `Module` | 
+| [tns-core-modules/ui/web-view](http://docs.nativescript.org/api-reference/modules/_ui_web_view_.html)) | `Module` |
 | [WebView](https://docs.nativescript.org/api-reference/classes/_ui_web_view_.webview) | `Class` |
 | [LoadEventData](https://docs.nativescript.org/api-reference/interfaces/_ui_web_view_.loadeventdata) | `Interface` |
 | [NavigationType](https://docs.nativescript.org/api-reference/modules/_ui_web_view_#navigationtype) | type aliases |
@@ -31,8 +30,4 @@
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.webkit.WebView](http://developer.android.com/reference/android/webkit/WebView.html) | [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview) | 
-
-
-
-
+| [android.webkit.WebView](http://developer.android.com/reference/android/webkit/WebView.html) | [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview) |

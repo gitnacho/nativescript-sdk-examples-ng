@@ -4,4 +4,5 @@ description: The TabView modules allow navigating between different views by tap
 position: 42
 slug: tab-view-ng
 ---
+
 example-order: usage, styling, tips-and-tricks

@@ -4,4 +4,5 @@ description:  TimePicker is UI control, which allows choosing a time from a read
 position: 45
 slug: time-picker-ng
 ---
+
 example-order: usage, styling

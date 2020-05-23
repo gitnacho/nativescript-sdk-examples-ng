@@ -15,13 +15,13 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/button](https://docs.nativescript.org/api-reference/modules/_ui_button_) | `Module` | 
-| [Button](http://docs.nativescript.org/api-reference/classes/_ui_button_.button.html) | `Class` | 
+| [tns-core-modules/ui/button](https://docs.nativescript.org/api-reference/modules/_ui_button_) | `Module` |
+| [Button](http://docs.nativescript.org/api-reference/classes/_ui_button_.button.html) | `Class` |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.widget.Button](http://developer.android.com/reference/android/widget/Button.html) | [UIButton](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIButton_Class/) | 
+| [android.widget.Button](http://developer.android.com/reference/android/widget/Button.html) | [UIButton](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIButton_Class/) |

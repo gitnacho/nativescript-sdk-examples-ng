@@ -1,5 +1,3 @@
-
-
 ## Properties
 
 | Name     | Type    | Description    |
@@ -28,10 +26,10 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/list-view](http://docs.nativescript.org/api-reference/modules/_ui_list_view_) | `Module` | 
-| [ListView](https://docs.nativescript.org/api-reference/classes/_ui_list_view_.listview) | `Class` | 
+| [tns-core-modules/ui/list-view](http://docs.nativescript.org/api-reference/modules/_ui_list_view_) | `Module` |
+| [ListView](https://docs.nativescript.org/api-reference/classes/_ui_list_view_.listview) | `Class` |
 | [ItemEventData](https://docs.nativescript.org/api-reference/interfaces/_ui_list_view_.itemeventdata) | `Interface` |
 | [ItemsSource](https://docs.nativescript.org/api-reference/interfaces/_ui_list_view_.itemssource) | `Interface` |
 | [KeyedTemplate](https://docs.nativescript.org/api-reference/interfaces/_ui_core_view_.keyedtemplate) | `Interface` |
@@ -41,5 +39,3 @@
 | Android               | iOS      |
 |:----------------------|:---------|
 | [android.widget.ListView](http://developer.android.com/reference/android/widget/ListView.html) | [UITableView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITableView_Class/) |
-
-

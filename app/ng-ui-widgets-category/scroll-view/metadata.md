@@ -4,4 +4,5 @@ description: ScrollView class allows displaying scrollable area, which has conte
 position: 36
 slug: scroll-view-ng
 ---
+
 example-order: usage, tips-and-tricks
