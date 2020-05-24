@@ -1,10 +1,10 @@
 <GridLayout rows="*" sdkExampleTitle sdkToggleNavButton>
 	<!-- >> listview-styling-html -->
-	<!-- 
+	<!--
 		The @nativescript/theme provides ListView CSS classes (`list-group` & `list-group-item`) for setting recommended paddings & margins for ListView items.
-		These class names adds a bit of spacing and the theme’s color scheme. 
+		These class names adds a bit of spacing and the theme’s color scheme.
 	-->
-	<ListView [items]="items" class="list-group" 
+	<ListView [items]="items" class="list-group"
 			  backgroundColor="red" separatorColor="blue">
 		<ng-template let-item="item">
 			<GridLayout height="60">
@@ -14,5 +14,3 @@
 	</ListView>
 	<!-- << listview-styling-html -->
 </GridLayout>
-
-

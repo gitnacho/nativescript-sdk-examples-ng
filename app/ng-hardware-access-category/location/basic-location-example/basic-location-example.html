@@ -19,13 +19,13 @@
 
             <StackLayout row="5" col="1" class="input-field">
                 <TextField class="input input-border" hint="longitude" [text]="endpointLongitude"></TextField>
-            </StackLayout>  
+            </StackLayout>
 
             <Label class="p-15" row="6" col="0" text="Latitude" textWrap="true"></Label>
             <StackLayout row="6" col="1" class="input-field">
                 <TextField class="input input-field" hint="latitude" [text]="endpointLatitude"></TextField>
-            </StackLayout>  
-            
+            </StackLayout>
+
             <Button class="btn btn-outline btn-active" row="7" col="0" colSpan="2" text="Get distance between two locations" (tap)="getDistance()"></Button>
             <Label class="input input-border p-15 text-center" row="8" col="0" colSpan="2" [text]="'Distance: '+distanceResult+' km'" textWrap="true"></Label>
         </GridLayout>

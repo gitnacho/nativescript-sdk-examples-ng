@@ -83,21 +83,21 @@ export const routes: RouterConfig = [
 
 ## Run Application
 
-``` Node
+``` Shell
 npm install
 tns run android
 ```
 
 or
 
-``` Node
+``` Shell
 npm install
 tns run ios
 ```
 
 ## Build Article
 
-``` Node
+``` Shell
 npm run build
 ```
 
@@ -107,7 +107,7 @@ You can find the build results in the `dist` directory.
 
 To see a GitHub Flavored Markdown preview of the article, execute the following command:
 
-``` Node
+``` Shell
 npm run show-preview
 ```
 

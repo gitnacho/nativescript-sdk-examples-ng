@@ -81,7 +81,7 @@ function gatherArticles(cwd, appDir, articlesDir, jenkinsPosition) {
         var subDirPath = path.join(appDir, subDir);
 
         // Gather all component overviews in the subdirs - ng-ui-widgets-category, ui-extended-category
-        var components = glob.sync(subDirPath + "/*/overview.md").filter(function (file) { 
+        var components = glob.sync(subDirPath + "/*/overview.md").filter(function (file) {
             return !path.parse(file).dir.endsWith(CATEGORY);
         }).sort(compareFiles);
         getComponents(cwd, components, currentDir, jenkinsPosition);
@@ -139,7 +139,7 @@ function getComponents(cwd, components, currentDir, jenkinsPosition) {
                 fs.appendFileSync(componentArticleFile, "slug: " + componentHeader + "\n",  {encoding:'utf8'});
                 fs.appendFileSync(componentArticleFile, "---\n\n",  {encoding:'utf8'});
             }
-            
+
             // Component Markdown Header
             fs.appendFileSync(componentArticleFile, "# " + componentPrettyHeader + "\n\n",  {encoding:'utf8'});
 
@@ -211,7 +211,7 @@ function getComponents(cwd, components, currentDir, jenkinsPosition) {
             var subDirPath = overview.replace("/overview.md", "");
             var end = path.join(subDirPath, "end.md");
             var endContents = fs.readFileSync(end,  {encoding:'utf8'});
-            fs.appendFileSync(componentArticleFile, endContents + "\n\n",  {encoding:'utf8'}); 
+            fs.appendFileSync(componentArticleFile, endContents + "\n\n",  {encoding:'utf8'});
         });
 }
 
